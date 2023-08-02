@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-image: url('imagem2.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+}
+</style>
+</head>
+<body>
+
+<h1>The Biggest Gold Age of R6</h1>
+<p>YAKUZA Team</p>
+<p>Trajétoria da YAKUZA Team.
+</p>
+<p>Roadback tinha um time onde ele representava a posição de suporte 1 onde ele exercia a função de igl (in game leader) onde ele deveria guiar seu time para que eles ganhassem a rodada.</p>
+
+
+</body>
+</html>
